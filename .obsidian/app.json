@@ -4,5 +4,5 @@
   "attachmentFolderPath": "content/Vet Brain/Pièces jointes Vetbrain",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "newFileLocation": "root"
+  "newFileLocation": "current"
 }

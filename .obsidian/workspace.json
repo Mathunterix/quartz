@@ -94,6 +94,19 @@
             }
           },
           {
+            "id": "bdb64087e7339ab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "940c91920a71a16c",
             "type": "leaf",
             "state": {
@@ -106,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -223,17 +236,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d361669d71b18284",
+  "active": "bdb64087e7339ab4",
   "lastOpenFiles": [
-    "content/notes/problème.md",
+    "content/notes/nouvel.md",
     "content/_index.md",
+    "content/notes/problème.md",
     "content/notes/infernal.md",
     "content/notes/preview changes.md",
     "content/notes/ou peut etre est-ce les retroliens.md",
     "Modèles/Métadonnée pour quartz.md",
     "content/notes/Ou peut etre est-ce les tags.md",
     "content/notes/La localisation importe-t-elle.md",
-    "content/Test/Trouver un job.md",
-    "content/Test/Dinguerie.md"
+    "content/Test/Trouver un job.md"
   ]
 }
