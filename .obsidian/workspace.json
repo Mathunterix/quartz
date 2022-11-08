@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/CJK + Latex Support (测试).md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/CJK + Latex Support (测试).md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/CJK + Latex Support (测试).md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/CJK + Latex Support (测试).md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "00cad0b7b62e6948",
   "lastOpenFiles": [
+    "content/notes/CJK + Latex Support (测试).md",
     "README.md",
     "content/_index.md"
   ]
