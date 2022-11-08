@@ -31,3 +31,5 @@ enableToc: false
 [nouvel](content/notes/nouvel.md)
 
 [infernal](content/notes/infernal.md)
+
+[[content/notes/infernal]]
