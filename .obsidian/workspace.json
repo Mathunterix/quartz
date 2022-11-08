@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "843acb487afb3d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modèles/Métadonnée pour quartz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b582dae3cc28cd15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,10 +161,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00cad0b7b62e6948",
+  "active": "b582dae3cc28cd15",
   "lastOpenFiles": [
+    "content/Test notes/Trouver un job.md",
+    "Modèles/Métadonnée pour quartz.md",
+    "content/_index.md",
     "content/notes/CJK + Latex Support (测试).md",
-    "README.md",
-    "content/_index.md"
+    "README.md"
   ]
 }
