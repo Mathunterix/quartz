@@ -1,4 +1,4 @@
-baseURL = "https://<quartz.matthieucousin.com/"
+baseURL = "https://<quartz.matthieucousin.com>/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
