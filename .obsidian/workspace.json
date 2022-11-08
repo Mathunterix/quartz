@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Test notes/Trouver un job.md",
+                "file": "Modèles/Métadonnée pour quartz.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Test notes/Trouver un job.md",
+                "file": "Modèles/Métadonnée pour quartz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Test notes/Trouver un job.md",
+                "file": "Modèles/Métadonnée pour quartz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Test notes/Trouver un job.md"
+                "file": "Modèles/Métadonnée pour quartz.md"
               }
             }
           }
@@ -163,10 +163,15 @@
   },
   "active": "b582dae3cc28cd15",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/Test notes/Trouver un job.md",
-    "Modèles/Métadonnée pour quartz.md",
+    "content/notes/updating.md",
+    "content/notes/setup.md",
+    "content/notes/search.md",
+    "content/notes/showcase.md",
+    "content/notes/troubleshooting.md",
     "content/notes/CJK + Latex Support (测试).md",
-    "README.md"
+    "content/notes/config.md",
+    "Modèles/Métadonnée pour quartz.md",
+    "content/_index.md"
   ]
 }
