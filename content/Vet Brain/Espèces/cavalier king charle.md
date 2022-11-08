@@ -1,0 +1,1 @@
+100% des cavaliers kings charles ont un souffle à partir de 7 ans

@@ -1,0 +1,1 @@
+sensible au niveau urinaire et digestif

@@ -1,0 +1,14 @@
+{
+  "contextAwareMode": true,
+  "sourceSupport": true,
+  "codeHighlightSupport": false,
+  "inlineID": false,
+  "contextSeparator": " > ",
+  "deck": "VetBrain",
+  "folderBasedDeck": true,
+  "flashcardsTag": "anki",
+  "inlineSeparator": "::",
+  "inlineSeparatorReverse": ":::",
+  "defaultAnkiTag": "vetbrain",
+  "ankiConnectPermission": true
+}
