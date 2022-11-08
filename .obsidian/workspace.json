@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   },
   "active": "31b03cbb63716415",
   "lastOpenFiles": [
+    "content/notes/ou peut etre est-ce les retroliens.md",
     "content/notes/Ou peut etre est-ce les tags.md",
     "content/notes/troubleshooting.md",
     "content/_index.md",
@@ -207,7 +208,6 @@
     "content/notes/hosting.md",
     "content/notes/config.md",
     "content/notes/custom Domain.md",
-    "content/notes/obsidian.md",
-    "content/notes/philosophy.md"
+    "content/notes/obsidian.md"
   ]
 }
