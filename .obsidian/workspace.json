@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/problème.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/problème.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/problème.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/problème.md"
               }
             }
           }
@@ -225,9 +225,9 @@
   },
   "active": "d361669d71b18284",
   "lastOpenFiles": [
-    "content/notes/infernal.md",
     "content/_index.md",
     "content/notes/problème.md",
+    "content/notes/infernal.md",
     "content/notes/preview changes.md",
     "content/notes/ou peut etre est-ce les retroliens.md",
     "Modèles/Métadonnée pour quartz.md",
