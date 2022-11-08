@@ -1,8 +1,0 @@
--   Age d’apparition inférieur à 3 ans,
--   Mode de vie surtout à l’intérieur,
--   Prurit répondant aux corticostéroïdes,
--   Infections mycosiques chroniques ou récidivantes,
--   Atteinte des extrémités distales antérieures,
--   Atteinte des pavillons auriculaires,
--   Absence d’atteinte des marges de l’oreille,
--   Absence d’atteinte de la région dorso - lombaire.

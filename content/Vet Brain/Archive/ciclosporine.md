@@ -1,1 +1,0 @@
-La cyclosporine est un médicament qui inhibe le système immunitaire(immunosuppresseur). Elle permet d'inhiber l'activité du système immunitaire naturel de l'organisme

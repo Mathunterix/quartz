@@ -1,2 +1,0 @@
-[[cheyletiella parastivorax]]
-[[Psoroptes cuniculli]]
