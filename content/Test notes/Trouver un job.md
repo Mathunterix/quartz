@@ -1,6 +1,6 @@
 ```
 ---
-title: "{Title}"
+title: "Trouver un job"
 tags:
 - 
 ---
