@@ -2,7 +2,7 @@
 title: 🪴 Quartz 3.
 enableToc: false
 ---
-essais 1 please marche
+
 Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search]]
@@ -25,3 +25,4 @@ If you prefer browsing the contents of this site through a list instead of a gra
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
+[[content/Vet Brain/Espèces/LAPIN]]
