@@ -29,3 +29,5 @@ enableToc: false
 [problème](content/notes/problème.md)
 
 [nouvel](content/notes/nouvel.md)
+
+[infernal](content/notes/infernal.md)
