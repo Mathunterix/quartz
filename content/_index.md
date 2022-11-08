@@ -33,3 +33,7 @@ enableToc: false
 [infernal](content/notes/infernal.md)
 
 [[content/notes/infernal]]
+
+[[content/_index]]
+
+[[ultime test]]
