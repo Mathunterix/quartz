@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Ou peut etre est-ce les tags.md",
+                "file": "content/notes/ou peut etre est-ce les retroliens.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Ou peut etre est-ce les tags.md",
+                "file": "content/notes/ou peut etre est-ce les retroliens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/Ou peut etre est-ce les tags.md",
+                "file": "content/notes/ou peut etre est-ce les retroliens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Ou peut etre est-ce les tags.md"
+                "file": "content/notes/ou peut etre est-ce les retroliens.md"
               }
             }
           }
@@ -199,15 +199,15 @@
   },
   "active": "31b03cbb63716415",
   "lastOpenFiles": [
+    "Modèles/Métadonnée pour quartz.md",
+    "content/notes/Ou peut etre est-ce les tags.md",
     "content/notes/La localisation importe-t-elle.md",
     "content/notes/ou peut etre est-ce les retroliens.md",
-    "content/notes/Ou peut etre est-ce les tags.md",
     "content/Test/Trouver un job.md",
     "content/Test/Dinguerie.md",
     "content/_index.md",
     "content/notes/troubleshooting.md",
     "content/notes/CJK + Latex Support (测试).md",
-    "content/notes/hosting.md",
-    "content/notes/config.md"
+    "content/notes/hosting.md"
   ]
 }
