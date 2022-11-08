@@ -1,8 +1,8 @@
 {
   "newLinkFormat": "absolute",
-  "showUnsupportedFiles": true,
+  "showUnsupportedFiles": false,
   "attachmentFolderPath": "content/Vet Brain/Pièces jointes Vetbrain",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newFileLocation": "root"
 }

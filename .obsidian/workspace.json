@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/problème.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/problème.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/problème.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/problème.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -225,8 +225,8 @@
   },
   "active": "d361669d71b18284",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/notes/problème.md",
+    "content/_index.md",
     "content/notes/infernal.md",
     "content/notes/preview changes.md",
     "content/notes/ou peut etre est-ce les retroliens.md",
