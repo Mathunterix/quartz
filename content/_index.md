@@ -34,6 +34,6 @@ enableToc: false
 
 [[content/notes/infernal]]
 
-[[content/_index]]
-
 [[ultime test]]
+
+[[notes/problème]]
