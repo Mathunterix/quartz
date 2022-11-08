@@ -25,37 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modèles/Métadonnée pour quartz.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b582dae3cc28cd15",
+            "id": "940c91920a71a16c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modèles/Métadonnée pour quartz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2f67e1345120002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modèles/Métadonnée pour quartz.md",
+                "file": "content/Test notes/Trouver un job.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Test notes/Dinguerie.md",
+                "file": "content/Test notes/Trouver un job.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Test notes/Dinguerie.md",
+                "file": "content/Test notes/Trouver un job.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Test notes/Dinguerie.md"
+                "file": "content/Test notes/Trouver un job.md"
               }
             }
           }
@@ -172,12 +161,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "00cad0b7b62e6948",
+  "active": "940c91920a71a16c",
   "lastOpenFiles": [
-    "content/_index.md",
-    "Modèles/Métadonnée pour quartz.md",
     "content/Test notes/Dinguerie.md",
     "content/Test notes/Trouver un job.md",
+    "content/_index.md",
+    "Modèles/Métadonnée pour quartz.md",
     "content/notes/updating.md",
     "content/notes/setup.md",
     "content/notes/search.md",
