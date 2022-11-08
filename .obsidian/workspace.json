@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Test notes/Dinguerie.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Test notes/Dinguerie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Test notes/Dinguerie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Test notes/Dinguerie.md"
               }
             }
           }
@@ -174,9 +174,9 @@
   },
   "active": "00cad0b7b62e6948",
   "lastOpenFiles": [
+    "content/_index.md",
     "Modèles/Métadonnée pour quartz.md",
     "content/Test notes/Dinguerie.md",
-    "content/_index.md",
     "content/Test notes/Trouver un job.md",
     "content/notes/updating.md",
     "content/notes/setup.md",
