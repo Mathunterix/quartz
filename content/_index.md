@@ -11,14 +11,12 @@ enableToc: false
 
 
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+## Maintenant que ça marche on va faire des dinguerie
+> 📚 Step 1:  [Dinguerie](content/Test%20notes/Dinguerie.md)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
 
-### Troubleshooting
+### Des soucis ?
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
