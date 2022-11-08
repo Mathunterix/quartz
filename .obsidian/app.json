@@ -3,5 +3,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "content/Vet Brain/Pièces jointes Vetbrain",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "newFileLocation": "root"
 }

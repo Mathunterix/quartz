@@ -25,3 +25,5 @@ enableToc: false
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
 - 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
 
+[[content/notes/problème]]
+[[content/notes/infernal]]

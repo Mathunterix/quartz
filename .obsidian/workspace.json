@@ -61,8 +61,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md",
+                "file": "content/_index.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cfd7e93f14bf2f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d361669d71b18284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -80,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -197,17 +223,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "31b03cbb63716415",
+  "active": "d361669d71b18284",
   "lastOpenFiles": [
+    "content/notes/infernal.md",
+    "content/_index.md",
+    "content/notes/problème.md",
+    "content/notes/preview changes.md",
+    "content/notes/ou peut etre est-ce les retroliens.md",
     "Modèles/Métadonnée pour quartz.md",
     "content/notes/Ou peut etre est-ce les tags.md",
     "content/notes/La localisation importe-t-elle.md",
-    "content/notes/ou peut etre est-ce les retroliens.md",
     "content/Test/Trouver un job.md",
-    "content/Test/Dinguerie.md",
-    "content/_index.md",
-    "content/notes/troubleshooting.md",
-    "content/notes/CJK + Latex Support (测试).md",
-    "content/notes/hosting.md"
+    "content/Test/Dinguerie.md"
   ]
 }
