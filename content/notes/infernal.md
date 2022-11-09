@@ -1,9 +1,0 @@
----
-title: "infernal"
-tags:
----
-
-sgzrg
-
-
-

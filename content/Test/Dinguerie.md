@@ -1,4 +1,0 @@
----
-title: "Dinguerie"
-tags:
----
