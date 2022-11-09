@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Vetbrain/Discipline/Ophtalmologie.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Vetbrain/Discipline/Ophtalmologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Vetbrain/Discipline/Ophtalmologie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Vetbrain/Discipline/Ophtalmologie.md"
               }
             }
           }
@@ -260,15 +260,15 @@
   },
   "active": "8edf0a9853dcc04d",
   "lastOpenFiles": [
-    "content/Vetbrain/Indexe/Notes à compléter.md",
     "content/_index.md",
+    "content/Vetbrain/Discipline/Médecine interne.md",
+    "content/Vetbrain/Indexe/Notes modifiées au cours de 5 derniers jours.md",
+    "content/Vetbrain/Indexe/Notes modifiées aujourd'hui.md",
+    "Modèles/Dataview mémento.md",
+    "content/Vetbrain/Indexe/Notes à compléter.md",
     "README.md",
     "content/Vetbrain/Sans titre.md",
     "Modèles/Métadonnée pour quartz.md",
-    "content/notes/nouvel.md",
-    "content/notes/problème.md",
-    "content/notes/ultime test.md",
-    "content/notes/ou peut etre est-ce les retroliens.md",
-    "content/indexe.md"
+    "content/notes/nouvel.md"
   ]
 }

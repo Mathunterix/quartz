@@ -1,0 +1,1 @@
+Éviter corticoïdes sur affection cardiaque car augmente la précharge.
