@@ -43,3 +43,5 @@ enableToc: false
 [[ou peut etre est-ce les retroliens]]
 
 [[Test/Dinguerie]]
+
+[[notes/infernal]]
