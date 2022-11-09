@@ -7,6 +7,7 @@ enableToc: false
 
 azereht
 
+[showcase](content/notes/showcase.md)
 
 ### Des soucis ?
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
