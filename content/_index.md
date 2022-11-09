@@ -8,6 +8,7 @@ azereht
 
 [showcase](content/notes/showcase.md)
 [hosting](notes/hosting.md)
+zefgrzehty
 
 ### Des soucis ?
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
