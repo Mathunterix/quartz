@@ -1,1 +1,0 @@
-Provoque des vomissements a partir du stade III

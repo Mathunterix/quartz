@@ -1,1 +1,0 @@
-# Valeurs usuelles tous animaux

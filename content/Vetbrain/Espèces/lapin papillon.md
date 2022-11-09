@@ -1,1 +1,0 @@
-1/2 dose de morphine : car papillon sensible

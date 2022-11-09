@@ -1,1 +1,0 @@
-Grand parasites vermiformes pulmonaires présents chez les serpents qui ont été prélevés dans la nature

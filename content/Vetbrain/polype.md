@@ -1,1 +1,0 @@
-Souvent un type de [[carcinome]] ou [[adénocarcinome]]

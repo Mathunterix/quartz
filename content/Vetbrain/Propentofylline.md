@@ -1,1 +1,0 @@
-Modifie la forme des globules rouges pour leurs permettre d'atteindre les capillaires cutanés notamment lors de [[Dermato-myosite ischémique]]

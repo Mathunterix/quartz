@@ -1,2 +1,0 @@
-[[Pancréatite]] + [[Cholangite]] + [[Hépatite]] + [[entérite]]
-
