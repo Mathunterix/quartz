@@ -8,6 +8,8 @@ Il faut utiliser un chemin relatif [philosophy](notes/philosophy.md)
 
 en fait y en a 3 de retard ?
 
+Je crois que je fais s'accumuler les erreurs...
+
 ### Des soucis ?
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
