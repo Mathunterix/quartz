@@ -17,6 +17,11 @@ Bienvenue dans VetBrain, le second cerveau vétérinaire.
 - [Ophtalmologie](Vetbrain/Discipline/Ophtalmologie.md)
 - [NAC](Vetbrain/Discipline/NAC.md) 
 
+## Quelques DDX ?
+- [DDX diarrhée](Vetbrain/DDX/DDX%20diarrhée.md)
+- [DDX toux grasse](Vetbrain/DDX/DDX%20toux%20grasse.md)
+- [DDX vomissements](Vetbrain/DDX/DDX%20vomissements.md)
+
 En gros y a toujours un retard de publication
 Il faut utiliser un chemin relatif [philosophy](notes/philosophy.md)
 
