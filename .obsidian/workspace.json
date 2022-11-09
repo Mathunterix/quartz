@@ -65,6 +65,19 @@
             }
           },
           {
+            "id": "8edf0a9853dcc04d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6cfd7e93f14bf2f7",
             "type": "leaf",
             "state": {
@@ -128,7 +141,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -245,17 +258,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "228bd8dfa9425cf9",
+  "active": "8edf0a9853dcc04d",
   "lastOpenFiles": [
+    "content/Vetbrain/Sans titre.md",
+    "content/_index.md",
     "README.md",
     "Modèles/Métadonnée pour quartz.md",
-    "content/_index.md",
     "content/notes/nouvel.md",
     "content/notes/problème.md",
     "content/notes/ultime test.md",
     "content/notes/ou peut etre est-ce les retroliens.md",
     "content/indexe.md",
-    "content/notes/infernal.md",
-    "content/notes/preview changes.md"
+    "content/notes/infernal.md"
   ]
 }
