@@ -1,1 +1,0 @@
-boule au niveau de la jonction caecale. Organe lymphoïde qui devient palpable.

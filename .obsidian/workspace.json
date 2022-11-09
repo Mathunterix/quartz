@@ -68,13 +68,8 @@
             "id": "8edf0a9853dcc04d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Vetbrain/Indexe/Notes à compléter.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -207,7 +202,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vetbrain/Indexe/Notes à compléter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +218,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vetbrain/Indexe/Notes à compléter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,9 +239,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/Vetbrain/Indexe/Notes à compléter.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -260,6 +251,7 @@
   },
   "active": "8edf0a9853dcc04d",
   "lastOpenFiles": [
+    "content/Vetbrain/Indexe/Notes à compléter.md",
     "content/_index.md",
     "README.md",
     "content/Vetbrain/Sans titre.md",
@@ -268,7 +260,6 @@
     "content/notes/problème.md",
     "content/notes/ultime test.md",
     "content/notes/ou peut etre est-ce les retroliens.md",
-    "content/indexe.md",
-    "content/notes/infernal.md"
+    "content/indexe.md"
   ]
 }

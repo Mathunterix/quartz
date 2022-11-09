@@ -1,3 +1,0 @@
-Traitement : 
-
-Acide tranexamique (EXACYL)

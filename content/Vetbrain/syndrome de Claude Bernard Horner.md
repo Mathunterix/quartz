@@ -1,3 +1,0 @@
-#myosis 
-#ptosepalpébrale supérieure
-#enophtalmie
