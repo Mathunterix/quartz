@@ -5,6 +5,7 @@ tags:
 
 efgre
 
+[[../_index]]
 
 
 
