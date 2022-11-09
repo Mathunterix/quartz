@@ -4,6 +4,8 @@ enableToc: false
 ---
 Bienvenue dans VetBrain, le second cerveau vétérinaire.
 
+[philosophy](notes/philosophy.md)
+
 ## Naviguez facilement
 - [Notes à compléter](Vetbrain/Indexe/Notes%20à%20compléter.md)
 - [Notes modifiées aujourd'hui](Vetbrain/Indexe/Notes%20modifiées%20aujourd'hui.md)
@@ -28,6 +30,8 @@ Il faut utiliser un chemin relatif [philosophy](notes/philosophy.md)
 en fait y en a 3 de retard ?
 
 Je crois que je fais s'accumuler les erreurs...
+
+Bon dpeuis que j'ai rajouter vetbrain c'est la merde je crois 
 
 ### Des soucis ?
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
