@@ -7,7 +7,7 @@ Bienvenue dans VetBrain, le second cerveau vétérinaire.
 
 ## Naviguez facilement
 
-
+[philosophy](notes/philosophy.md)
 ## Quelle discipline vous intéresse le plus ?
 
 ## Quelques DDX ?
