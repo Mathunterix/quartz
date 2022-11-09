@@ -3,12 +3,8 @@ title: 🪴 Bienvenue dans mon second cerveau.
 enableToc: false
 ---
 
-
-azereht
-
 [showcase](content/notes/showcase.md)
-[hosting](notes/hosting.md)
-zefgrzehty
+egzrhetry
 
 ### Des soucis ?
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
