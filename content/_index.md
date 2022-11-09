@@ -7,9 +7,7 @@ Bienvenue dans VetBrain, le second cerveau vétérinaire.
 [philosophy](notes/philosophy.md)
 
 ## Naviguez facilement
-- [Notes à compléter](Vetbrain/Indexe/Notes%20à%20compléter.md)
 
-#Médicament 
 
 ## Quelle discipline vous intéresse le plus ?
 
