@@ -145,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/ou peut etre est-ce les retroliens.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -262,8 +262,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d42f6e5d0d16a06b",
+  "active": "31b03cbb63716415",
   "lastOpenFiles": [
+    "content/notes/ou peut etre est-ce les retroliens.md",
     "content/_index.md",
     "content/notes/problème.md",
     "content/indexe.md",
@@ -271,7 +272,6 @@
     "content/notes/infernal.md",
     "content/notes/nouvel.md",
     "content/notes/preview changes.md",
-    "content/notes/ou peut etre est-ce les retroliens.md",
     "Modèles/Métadonnée pour quartz.md",
     "content/notes/Ou peut etre est-ce les tags.md"
   ]
