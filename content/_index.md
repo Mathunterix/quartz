@@ -4,10 +4,10 @@ enableToc: false
 ---
 
 
-
 azereht
 
 [showcase](content/notes/showcase.md)
+[hosting](notes/hosting.md)
 
 ### Des soucis ?
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
