@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Vetbrain/Indexe/Notes à compléter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Vetbrain/Indexe/Notes à compléter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/Vetbrain/Indexe/Notes à compléter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/Vetbrain/Indexe/Notes à compléter.md"
               }
             }
           }
@@ -260,8 +260,8 @@
   },
   "active": "8edf0a9853dcc04d",
   "lastOpenFiles": [
-    "README.md",
     "content/_index.md",
+    "README.md",
     "content/Vetbrain/Sans titre.md",
     "Modèles/Métadonnée pour quartz.md",
     "content/notes/nouvel.md",
