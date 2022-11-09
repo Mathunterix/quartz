@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Vetbrain/Discipline/Ophtalmologie.md",
+                "file": "content/_index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Vetbrain/Discipline/Ophtalmologie.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Vetbrain/Discipline/Ophtalmologie.md",
+                "file": "content/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Vetbrain/Discipline/Ophtalmologie.md"
+                "file": "content/_index.md"
               }
             }
           }
@@ -261,6 +261,7 @@
   },
   "active": "8edf0a9853dcc04d",
   "lastOpenFiles": [
+    "content/Vetbrain/Discipline/Ophtalmologie.md",
     "content/_index.md",
     "content/Vetbrain/Discipline/Médecine interne.md",
     "content/Vetbrain/Indexe/Notes modifiées au cours de 5 derniers jours.md",
@@ -269,7 +270,6 @@
     "content/Vetbrain/Indexe/Notes à compléter.md",
     "README.md",
     "content/Vetbrain/Sans titre.md",
-    "Modèles/Métadonnée pour quartz.md",
-    "content/notes/nouvel.md"
+    "Modèles/Métadonnée pour quartz.md"
   ]
 }
