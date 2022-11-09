@@ -6,6 +6,8 @@ enableToc: false
 En gros y a toujours un retard de publication
 Il faut utiliser un chemin relatif [philosophy](notes/philosophy.md)
 
+en fait y en a 3 de retard ?
+
 ### Des soucis ?
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
