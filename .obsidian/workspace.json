@@ -112,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/problème.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/problème.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/notes/problème.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md"
+                "file": "content/notes/problème.md"
               }
             }
           }
@@ -251,8 +251,8 @@
   },
   "active": "abfc0040ed28e5fd",
   "lastOpenFiles": [
-    "content/indexe.md",
     "content/_index.md",
+    "content/indexe.md",
     "content/notes/ultime test.md",
     "content/notes/infernal.md",
     "content/notes/nouvel.md",
